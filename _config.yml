@@ -32,7 +32,7 @@ subtitle                 : # site tagline that appears below site title in masth
 # name                     : "Daphne Odera"
 author:
   name: "Daphne Odera"
-description              : "This is a blog containing LeetCode learning notes."
+description              : "This is a blog containing my study notes."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,6 +78,7 @@ reCaptcha:
   secret                 :
 
 show_follow: false
+show_feed: false
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
