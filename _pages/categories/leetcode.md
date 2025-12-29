@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "LeetCode Learning Notes"
-permalink: /categories/LeetCode/
+permalink: /categories/leetcode/
 category: LeetCode
 ---
