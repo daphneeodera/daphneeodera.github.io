@@ -23,7 +23,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 # title                    : "Site Title"
-title: LeetCode Learning Notes
+title: Home
+
 description: LeetCode Study Notes
 url: "https://daphneeodera.github.io"
 title_separator          : "-"
