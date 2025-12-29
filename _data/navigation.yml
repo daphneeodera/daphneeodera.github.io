@@ -11,6 +11,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Home"
-  url: /
+    url: /
   - title: "LeetCode Learning Notes"
-  url: /categories/LeetCode/
+    url: /categories/LeetCode/
