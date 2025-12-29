@@ -21,3 +21,7 @@ def two_sum(nums, target):
         if complement in hashmap:
             return [hashmap[complement], i]
         hashmap[num] = i
+```
+
+Time complexity: O(n)
+Space complexity: O(n)
