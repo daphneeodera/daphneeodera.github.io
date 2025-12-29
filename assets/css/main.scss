@@ -8,20 +8,5 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* ===== 自定义覆盖样式 ===== */
-
-/* 首页文章标题 */
-body.layout--home .post-card .entry-title a {
-  font-size: 1.4rem !important;
-}
-
-/* 文章页标题 */
-body.layout--single h1.entry-title {
-  font-size: 1.8rem !important;
-}
-
-.page__footer-follow,
-.footer-follow,
-.page-footer .page__footer-follow {
-  display: none !important;
-}
+// 再加载自定义覆盖样式
+@import "custom";
