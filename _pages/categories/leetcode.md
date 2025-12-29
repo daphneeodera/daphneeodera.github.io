@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "LeetCode Learning Notes"
+title: "LeetCode"
 permalink: /categories/leetcode/
 category: LeetCode
 ---
