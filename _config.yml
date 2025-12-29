@@ -75,6 +75,8 @@ comments:
 reCaptcha:
   siteKey                :
   secret                 :
+
+show_follow: false
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
@@ -285,8 +287,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
-show_feed: false
 
 # Archives
 #  Type
