@@ -23,5 +23,5 @@ def two_sum(nums, target):
         hashmap[num] = i
 ```
 
-Time complexity: O(n)
-Space complexity: O(n)
+- **Time complexity:** O(n)  
+- **Space complexity:** O(n)
