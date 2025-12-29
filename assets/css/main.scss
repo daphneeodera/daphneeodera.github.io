@@ -7,3 +7,12 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* ===== 自定义覆盖样式 ===== */
+.home h1.entry-title {
+  font-size: 1.5rem !important;
+}
+
+.single h1.entry-title {
+  font-size: 1.8rem !important;
+}
