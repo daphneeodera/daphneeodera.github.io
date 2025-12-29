@@ -123,10 +123,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Daphne Odera"
+  github: daphneeodera
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "力扣算法学习笔记博客"
+  tagline: "LeetCode Problem Solving Notes"
+  # location         : "Somewhere"
   email            :
   links:
     - label: "Email"
