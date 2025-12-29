@@ -25,7 +25,7 @@ rtl                      : # true, false (default) # turns direction of the page
 # title                    : "Site Title"
 title: Home
 
-description: LeetCode Study Notes
+description: My Study Notes
 url: "https://daphneeodera.github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
