@@ -28,10 +28,10 @@ description: LeetCode Study Notes
 url: "https://daphneeodera.github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-# name                     : "Your Name"
+# name                     : "Daphne Odera"
 author:
   name: "Daphne Odera"
-description              : "An amazing website."
+description              : "This is a blog containing LeetCode learning notes."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
