@@ -10,5 +10,5 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "LeetCode Learning Notes"
+  - title: "LeetCode"
     url: /categories/LeetCode/
