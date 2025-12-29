@@ -126,7 +126,7 @@ author:
   name             : "Daphne Odera"
   github: daphneeodera
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "力扣算法学习笔记博客"
+  bio              : "LeetCode Algorithm Learning Notes"
   tagline: "LeetCode Problem Solving Notes"
   # location         : "Somewhere"
   email            :
