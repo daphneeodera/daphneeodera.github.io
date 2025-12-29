@@ -278,8 +278,6 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-show_feed: false
-
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -288,6 +286,7 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
+show_feed: false
 
 # Archives
 #  Type
